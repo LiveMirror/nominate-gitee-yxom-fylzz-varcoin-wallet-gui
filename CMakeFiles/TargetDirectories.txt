@@ -1,6 +1,0 @@
-/root/varcoin-wallet-gui/CMakeFiles/rebuild_cache.dir
-/root/varcoin-wallet-gui/CMakeFiles/edit_cache.dir
-/root/varcoin-wallet-gui/CMakeFiles/varcoin.dir
-/root/varcoin-wallet-gui/CMakeFiles/varnote.dir
-/root/varcoin-wallet-gui/CMakeFiles/varcoin_automoc.dir
-/root/varcoin-wallet-gui/CMakeFiles/varnote_automoc.dir
