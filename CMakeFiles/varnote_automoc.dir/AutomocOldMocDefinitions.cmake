@@ -1,0 +1,1 @@
+set(AM_OLD_COMPILE_SETTINGS "GIT_REVISION=\"8a7a04b\";_GNU_SOURCE ~~~ /root/varcoin-wallet-gui;/root/varcoin-wallet-gui/src;/root/varcoin-wallet-gui/varnote/external;/root/varcoin-wallet-gui/varnote/include;/root/varcoin-wallet-gui/varnote/src;/usr/local/include;/root/varcoin-wallet-gui/varnote/src/Platform/Linux ~~~  ~~~ FALSE ~~~ ")

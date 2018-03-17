@@ -1,0 +1,3 @@
+set(CN_PROJECT_NAME "varcoin")
+set(CN_CURRENCY_DISPLAY_NAME "Varcoin")
+set(CN_CURRENCY_TICKER "VAR")
